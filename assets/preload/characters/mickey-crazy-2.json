@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				153,
+				122
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Suicide Left"
+		},
+		{
+			"offsets": [
+				78,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Suicide Down"
+		},
+		{
+			"offsets": [
+				0,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Suicide Idle"
+		},
+		{
+			"offsets": [
+				-11,
+				154
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Suicide Up"
+		},
+		{
+			"offsets": [
+				0,
+				114
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Suicide Rigth"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/thehing",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "craze-2",
+	"flip_x": false,
+	"healthbar_colors": [
+		43,
+		46,
+		40
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
