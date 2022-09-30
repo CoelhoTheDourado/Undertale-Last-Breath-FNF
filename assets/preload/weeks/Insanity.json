@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"phantasm",
+			"normal",
+			[
+				195,
+				195,
+				195
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Phantasm"
+}
